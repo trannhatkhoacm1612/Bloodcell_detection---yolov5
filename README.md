@@ -10,6 +10,8 @@ You can read this model in this link: https://github.com/ultralytics/yolov5.git
 # About Dataset
 We use dataset from this link : https://github.com/draaslan/blood-cell-detection-dataset.git
 
+![feature-image]('blob:https://www.messenger.com/72d5cb5b-cf82-4db0-9215-e594595a50ae')
+
 # # Note: This labels file are Kitti format, so you must convert them into Yolov5 foramt
   You just care about 5 parameter in file lables.txt: *labels *x_min *y_min *x_max *y_max
   Then convert it into Yolov5 format: *labels *x_center *y_center *weight *height
