@@ -12,7 +12,7 @@ We use dataset from this link : https://github.com/draaslan/blood-cell-detection
 
 ![feature-image](https://scontent.xx.fbcdn.net/v/t1.15752-9/323584072_551687796623804_2430966581456413941_n.png?_nc_cat=108&ccb=1-7&_nc_sid=aee45a&_nc_ohc=Zgx6jfBT53kAX_eqdpT&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQplo-7onvXkWArB7RmdZgd4ArsK7tdxczUC2cTd_goCA&oe=63DBD35B)
 
-# # Note: This labels file are Kitti format, so you must convert them into Yolov5 foramt
+## Note: This labels file are Kitti format, so you must convert them into Yolov5 format
   You just care about 5 parameter in file lables.txt: *labels *x_min *y_min *x_max *y_max
   Then convert it into Yolov5 format: *labels *x_center *y_center *weight *height
  
